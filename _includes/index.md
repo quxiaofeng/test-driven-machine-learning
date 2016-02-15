@@ -89,3 +89,14 @@ class NumberGuesser:
       return None
     return random.choice(self._guessed_numbers)
 ```
+
+An Equation Test
+----------------
+
+\\[
+w\_{i+1,j} = w\_{i,j} + \\ita \\times w\_{i,j} \\times \\left( t\_j - p\_j \\right) 
+\\]
+
+\\[
+p\_j = \\sum w\_i \\times x\_i > 0
+\\]
