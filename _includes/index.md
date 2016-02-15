@@ -1,16 +1,16 @@
-[English]({% site.baseurl %}/) | [中文]({% site.baseurl %}/cn/)
+[English]({site.baseurl}/) | [中文]({site.baseurl}/cn/)
 
-![DKHRS]({% site.baseurl %}/images/fig_device.png)
+![DKHRS]({site.baseurl}/images/fig_device.png)
 
 ## Ergonomic Biometrics Design Model ##
 
 HBSI Model
 
-![HBSI model]({% site.baseurl %}/images/fig_hbsi.svg)
+![HBSI model]({site.baseurl}/images/fig_hbsi.svg)
 
 EBD Model
 
-![EBD model]({% site.baseurl %}/images/fig_newmodel.svg)
+![EBD model]({site.baseurl}/images/fig_newmodel.svg)
 
 ## Door Knob Hand Recognition System ##
 
@@ -22,7 +22,7 @@ EBD Model
 
 LGBPHS
 
-![LGBPHS Method]({% site.baseurl %}/images/fig_lgbphs.svg)
+![LGBPHS Method]({site.baseurl}/images/fig_lgbphs.svg)
 
 ### Projective Dictionary Pair Learning
 
@@ -134,7 +134,7 @@ The closed-form solutions of \\(\\mathbf{P}\\) can be obtained as:
 
 Flowchart
 
-![Flowchart]({% site.baseurl %}/images/fig_flowchart.svg)
+![Flowchart]({site.baseurl}/images/fig_flowchart.svg)
 
 ## Publications ##
 
