@@ -1,0 +1,8 @@
+markdown: redcarpet
+pygments: true
+
+url: http://www.quxiaofeng.me/test-driven-machine-learning
+baseurl: /test-driven-machine-learning
+
+title_tag_text: Test-driven Machine Learning
+h1_tag_text: Test-driven Machine Learning
