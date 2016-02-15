@@ -94,7 +94,7 @@ An Equation Test
 ----------------
 
 \\[
-w\_{i+1,j} = w\_{i,j} + \\ita \\times w\_{i,j} \\times \\left( t\_j - p\_j \\right) 
+w\_{i+1,j} = w\_{i,j} + \\eta \\times w\_{i,j} \\times \\left( t\_j - p\_j \\right) 
 \\]
 
 \\[
